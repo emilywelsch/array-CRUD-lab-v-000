@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [0,1,2,3]
+  [0,1,2,"am"]
 end
 
 def add_element_to_end_of_array(array, element)
