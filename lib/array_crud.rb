@@ -31,5 +31,5 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-
+  add_element_to_end_of_array(create_an_array,"arrays!").last
 end
